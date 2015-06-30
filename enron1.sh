@@ -1,0 +1,1 @@
+grep -il meeting enron1/spam/*.txt | wc -l
